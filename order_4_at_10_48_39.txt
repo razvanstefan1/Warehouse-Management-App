@@ -1,0 +1,2 @@
+id Comanda, id Produs, id Client, cantitate, data:
+(2,4,40,'13-05-2022')
